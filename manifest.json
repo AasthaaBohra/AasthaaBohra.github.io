@@ -1,0 +1,10 @@
+{
+  "name" : "ISL",
+  "short_name": "Sign",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background-color": "#FFE9D2",
+  "theme_color": "#FFE1C4",
+  "orientation": "portrait-primary"
+
+}
